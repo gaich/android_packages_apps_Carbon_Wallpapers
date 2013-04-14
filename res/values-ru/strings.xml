@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Carbon Wallpapers</string>
+    <string name="title_activity_wallpaper">Обои Carbon</string>
+    <string name="back">Предыдущая</string>
+    <string name="next">Следующая</string>
+    <string name="page">Стр.: </string>
+    <string name="set_wallpaper">Установить как обои</string>
+    <string name="save_wallpaper">Сохранить в память</string>
+    <string name="downloading">Загрузка…</string>
+    <string name="wait">Пожалуйста, подождите</string>
+    <string name="set">Обои установлены!</string>
+    <string name="saved">Обои сохранены в</string>
+    <string name="jump">Перейти к странице</string>
+    <string name="jump2">Перейти к странице:</string>
+    <string name="about">О</string>
+    <string name="wars">Война обоев</string>
+    <string name="vote">Голосовать!</string>
+    <string name="wallpaper">обои</string>
+    <string name="setting_wallpaper">Выбор обоев…</string>
+    <string name="category_name">Категория</string>
+    <string name="choose_category">Выбрать категорию</string>
+
+</resources>
